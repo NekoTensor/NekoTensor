@@ -39,5 +39,4 @@
 
 <p align="center">
 <a href=https://linkedin.com/in/ameykamble/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Amey_Kamble" height="40" width="40" /></a>
-<a href=https://instagram.com/amey_kamble_014 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="amey_kamble_014" height="40" width="40" /></a>
 </p>
