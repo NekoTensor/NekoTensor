@@ -15,7 +15,7 @@
 
 
 
-- 🌱 I’m currently learning ... **Natural Language Processing**
+- 🌱 I’m currently learning ... **Reinforcement Learning **
 - 💬 Ask me about ... **Web Develpoment and Machine learning**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **LovesAnime**❤
