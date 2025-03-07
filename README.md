@@ -21,7 +21,7 @@
 - ⚡ Fun fact ... **LovesAnime**❤
 - 📫 How to reach me **nekotensor@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
-# 💻 Tech Stack:
+
 
 - 📫 How to reach me **nekotensor@gmail.com**
  <h3 align="left">Languages and Tools:</h3>
