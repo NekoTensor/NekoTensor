@@ -5,8 +5,8 @@
   </a>
 </p>
 
-<h3 align="center">Sophomore at IIT Kharagpur</h3>
-<h3 align="center">B.Tech in Aerospace Engineering (expected to graduate in the year 2027) </h3>
+<h3 align="center">Pre-Final Year Student at IIT Kharagpur</h3>
+<h3 align="center">B.Tech in Aerospace Engineering (expected to graduate in the year 2028) </h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=NekoTensor alt=NekoTensor/></p>
 
 
@@ -15,10 +15,9 @@
 
 
 
-- 🌱 I’m currently learning ... **Computer Vision**
+- 🌱 I’m currently learning ... **Artificial General Intelligence**
 - 💬 Ask me about ... **Web Develpoment and Machine learning**
-- 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **LovesAnime**❤
+- 😄 Employement ... **Open for intern/job opportunities**
 - 📫 How to reach me **nekotensor@gmail.com**
 
 
