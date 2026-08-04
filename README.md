@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Neko_Tensor </h1>
  <p align="center"><br/>
    <a href="https://www.linkedin.com/in/ameykamble/">
-    <img src="https://img.shields.io/badge/linkedin-Amey_Kamble-blue">
+    <img src="https://img.shields.io/badge/linkedin-NekoTensor-blue">
   </a>
 </p>
 
