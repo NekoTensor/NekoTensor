@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center">Pre-Final Year Student at IIT Kharagpur</h3>
-<h3 align="center">B.Tech in Aerospace Engineering (expected to graduate in the year 2028) </h3>
+<h3 align="center">B.Tech in Aerospace Engineering </h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=NekoTensor alt=NekoTensor/></p>
 
 
